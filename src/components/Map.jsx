@@ -3,7 +3,6 @@ import GoogleMapReact from "google-map-react";
 import LocationMarker from "./LocationMarker";
 import LocationInfoBox from "./LocationInfoBox";
 
-// define constants
 const NATURAL_EVENT_WILDFIRE = 8;
 
 const Map = ({ eventData, center, zoom }) => {
